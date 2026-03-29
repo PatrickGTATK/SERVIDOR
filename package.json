@@ -1,0 +1,12 @@
+{
+  "name": "ttlm-license-server",
+  "version": "1.0.0",
+  "description": "Servidor de licenças — TikTok Live Macro",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
